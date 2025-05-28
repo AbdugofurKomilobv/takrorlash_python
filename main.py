@@ -17,3 +17,11 @@
 
 # x = a >=0 or b <-2
 # print(x)
+
+
+a = int(input('a: '))
+b = int(input('b: '))
+
+x = a % 2 == 1 or b % 2 == 1
+
+print(x)
