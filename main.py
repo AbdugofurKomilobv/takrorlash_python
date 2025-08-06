@@ -42,3 +42,14 @@ for i in range(8):
         else:
             print("⬛", end=" ")
     print()
+    
+    
+    
+    
+ #=================================================================
+# 2 lasixam juft yoki toq bolishi kere
+# a = int(input('a: '))
+# b = int(input('b: '))
+
+# x = a % 2 == 0 and b % 2 == 0 or a % 2 == 1 and b % 2 == 1
+# print(x)
